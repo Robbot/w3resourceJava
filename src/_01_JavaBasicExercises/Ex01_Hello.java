@@ -4,7 +4,7 @@ package _01_JavaBasicExercises;
  */
 
 /**
- * @author Robert
+ * @author Robert i tutaj mala zmiana
  *
  */
 public class Ex01_Hello {
