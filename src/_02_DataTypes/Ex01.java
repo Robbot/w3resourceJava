@@ -8,7 +8,7 @@ public class Ex01 {
 		System.out.println("Please provide temperature in Fahrenheit");
 		double fahrenheit = sc.nextDouble();
 		double celsius =(( 5 *(fahrenheit - 32.0)) / 9.0);
-		long rounded = Math.round(celsius,2);
+		double rounded = Math.round(celsius*100.0) / 100.0;//this ugly thing * 100/100 is needed because Math.round (var,2) doesn't work somehow
         System.out.println(fahrenheit + " degree Fahrenheit is equal to " + rounded + " in Celsius");
 	}
 
