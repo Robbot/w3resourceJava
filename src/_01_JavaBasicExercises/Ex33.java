@@ -13,7 +13,8 @@ public class Ex33 {
     public static int sumDigits(long n) {
         int sum = 0;
         while (n != 0) {
-        	//https://stackoverflow.com/questions/43975824/what-is-the-operator-in-java n%10 reminder of n
+        	//https://stackoverflow.com/questions/43975824/what-is-the-operator-in-java 
+        	//n%10 just reminder of n divided by 10
             sum += n % 10;
             n /= 10;
         }
