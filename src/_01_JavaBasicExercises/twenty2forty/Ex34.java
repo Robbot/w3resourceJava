@@ -2,7 +2,7 @@ package _01_JavaBasicExercises.twenty2forty;
 // Write a Java program to compute the area of a hexagon. Area of a hexagon = (6 * s^2)/(4*tan(π/6))
 //where s is the length of a side*//
 import java.util.Scanner;
-public class Ex24 {
+public class Ex34 {
 	public static void main(String[] args)
 	{
 		Scanner in = new Scanner(System.in);
