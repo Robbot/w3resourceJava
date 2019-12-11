@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.one2twenty;
 
 //Write a Java program to convert a decimal number to hexadecimal number.
 

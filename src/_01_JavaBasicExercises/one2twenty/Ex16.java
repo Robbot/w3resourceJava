@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.one2twenty;
 //Write a Java program to print a face.
 public class Ex16 {
     public static void main(String[] args)  

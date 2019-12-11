@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.twenty2forty;
 //Write a Java program and compute the sum of the digits of an integer.
 import java.util.Scanner;
 public class Ex33 {

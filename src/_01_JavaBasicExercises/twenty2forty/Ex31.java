@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.twenty2forty;
 //Write a Java program to check whether Java is installed on your computer.
 public class Ex31 {
 public static void main(String[] args) {

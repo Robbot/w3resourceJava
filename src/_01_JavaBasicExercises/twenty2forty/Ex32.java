@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.twenty2forty;
 //Write a Java program to compare two numbers
 import java.util.Scanner;
 public class Ex32{

@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.one2twenty;
 
 import java.util.Scanner;
 

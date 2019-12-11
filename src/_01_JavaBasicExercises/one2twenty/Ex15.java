@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.one2twenty;
 /* Write a Java program to swap two variables.
  * The simplest method to swap two variables is to use a third temporary variable :
 

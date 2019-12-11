@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.one2twenty;
 
 public class Ex08 {
     public static void main(String[] args) {  

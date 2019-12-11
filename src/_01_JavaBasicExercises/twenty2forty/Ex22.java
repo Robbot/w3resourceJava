@@ -1,4 +1,4 @@
-package _01_JavaBasicExercises;
+package _01_JavaBasicExercises.twenty2forty;
 //Write a Java program to convert a binary number to decimal number
 import java.util.Scanner;
 public class Ex22 {
